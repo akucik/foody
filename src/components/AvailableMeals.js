@@ -6,7 +6,7 @@ const MealsData = [
   {
     id: "m1",
     name: "sushi",
-    price: "12.99",
+    price: "13.99",
   },
   {
     id: "m2",
